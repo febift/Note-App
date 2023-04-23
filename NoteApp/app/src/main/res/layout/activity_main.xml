@@ -30,10 +30,12 @@
     </RelativeLayout>
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recycler_view"
+        android:id="@+id/rv_note_item"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/title_bar_layout"/>
+        android:layout_below="@id/title_bar_layout"
+        tools:listitem="@layout/recycler_note_item"
+        android:layout_marginTop="10dp"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/add_note_btn"
