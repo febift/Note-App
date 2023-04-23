@@ -6,37 +6,45 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:padding="10dp"
-    android:background="@drawable/background_create_account"
+    android:background="@drawable/bg1"
     tools:context=".CreateAccountActivity">
-    <de.hdodenhof.circleimageview.CircleImageView
-        android:id="@+id/iv_profile"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:src="@drawable/profile"
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:text="NoteApp"
+        android:textSize="40dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:fontFamily="@font/papernotes_bold"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"/>
     <LinearLayout
         android:id="@+id/hello_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_below="@id/iv_profile"
+        android:layout_below="@id/app_name"
         android:layout_marginTop="10dp">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello,"
             android:textStyle="bold"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="25dp"
+            android:fontFamily="@font/papernotes_bold"
             android:layout_marginStart="25dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Let's get started"
             android:textStyle="bold"
-            android:textColor="@color/black"
+            android:textColor="@color/light_grey"
             android:textSize="25dp"
+            android:fontFamily="@font/papernotes_bold"
             android:layout_marginStart="25dp"/>
     </LinearLayout>
     <LinearLayout
@@ -47,6 +55,32 @@
         android:layout_below="@id/hello_text"
         android:layout_marginHorizontal="25dp"
         android:layout_marginVertical="10dp">
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:boxBackgroundColor="#D2D2D2"
+            app:boxBackgroundMode="none"
+            app:hintTextColor="@color/black">
+            <EditText
+                android:id="@+id/et_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="10dp"
+                android:hint="Name"
+                android:textSize="16dp"
+                android:background="@drawable/rounded_corner"
+                android:padding="16dp"
+                android:inputType="textPersonName"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:boxBackgroundColor="#D2D2D2"
+            app:boxBackgroundMode="none"
+            app:hintTextColor="@color/black">
         <EditText
             android:id="@+id/et_email"
             android:layout_width="match_parent"
@@ -57,6 +91,16 @@
             android:background="@drawable/rounded_corner"
             android:padding="16dp"
             android:inputType="textEmailAddress"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:boxBackgroundColor="#D2D2D2"
+            app:passwordToggleEnabled="true"
+            app:boxBackgroundMode="none"
+            app:hintTextColor="@color/black">
         <EditText
             android:id="@+id/et_password"
             android:layout_width="match_parent"
@@ -67,6 +111,16 @@
             android:background="@drawable/rounded_corner"
             android:padding="16dp"
             android:inputType="textPassword"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:boxBackgroundColor="#D2D2D2"
+            app:passwordToggleEnabled="true"
+            app:boxBackgroundMode="none"
+            app:hintTextColor="@color/black">
         <EditText
             android:id="@+id/et_confirm_password"
             android:layout_width="match_parent"
@@ -77,13 +131,17 @@
             android:background="@drawable/rounded_corner"
             android:padding="16dp"
             android:inputType="textPassword"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_create_account"
             android:layout_width="match_parent"
             android:layout_height="64dp"
             android:text="Create Account"
             android:textSize="16dp"
-            android:backgroundTint="@color/black"
+            android:fontFamily="@font/papernotes_bold"
+            android:backgroundTint="@color/dark_blue"
             app:cornerRadius="10dp"/>
         <ProgressBar
             android:id="@+id/progress_bar"
@@ -103,13 +161,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Already have an account? "
-            android:textSize="16dp"/>
+            android:textSize="16dp"
+            android:fontFamily="@font/papernotes"/>
         <TextView
             android:id="@+id/login_text_view_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Login"
             android:textStyle="bold"
-            android:textSize="16dp"/>
+            android:textSize="16dp"
+            android:fontFamily="@font/papernotes"/>
     </LinearLayout>
 </RelativeLayout>
