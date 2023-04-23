@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_icon_app.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\icon_app.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-hdpi_ic_app.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-hdpi\\ic_app.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg_detail_note.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg_detail_note.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_louis_george_cafe.ttf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\louis_george_cafe.ttf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_montserrat.ttf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_love.ttf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\love.ttf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_papernotes_bold.otf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\papernotes_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_louis_george_cafe_bold.ttf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\louis_george_cafe_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg_main.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg_main.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_activity_note_details.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\activity_note_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg3.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg3.png"
+    },
+    {
+        "merged": "com.example.noteapp-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.noteapp-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\layout_recycler_note_item.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\layout\\recycler_note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg2.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_background_create_account.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\background_create_account.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\font_papernotes.otf.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\font\\papernotes.otf"
+    },
+    {
+        "merged": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-37:\\drawable_bg_login_createaccount.png.flat",
+        "source": "C:\\Users\\muhammad iswandi\\.gradle\\daemon\\7.5\\com.example.noteapp-main-39:\\drawable\\bg_login_createaccount.png"
+    }
+]

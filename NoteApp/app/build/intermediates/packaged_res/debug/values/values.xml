@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#647f94</color>
+    <color name="dark_blue">#305164</color>
+    <color name="dark_grey">#abb8c0</color>
+    <color name="light_grey">#e5e7ea</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">NoteApp</string>
+    <string name="default_web_client_id" translatable="false">773365651457-o1nhcilpq39isjcthjd4eb8r2bec8atp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">773365651457</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfSIw7pTitDRGke98Dnck4TQKi-GFQNUE</string>
+    <string name="google_app_id" translatable="false">1:773365651457:android:b627193dd75e57fe664800</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfSIw7pTitDRGke98Dnck4TQKi-GFQNUE</string>
+    <string name="google_storage_bucket" translatable="false">project-mid-mobile.appspot.com</string>
+    <string name="project_id" translatable="false">project-mid-mobile</string>
+    <style name="Theme.NoteApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/light_grey</item>
+        
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorSecondaryVariant">@color/dark_grey</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/dark_blue</item>
+        
+    </style>
+</resources>
