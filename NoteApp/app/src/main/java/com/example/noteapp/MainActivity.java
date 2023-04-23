@@ -3,6 +3,7 @@ package com.example.noteapp;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -75,7 +76,8 @@ public class MainActivity extends AppCompatActivity {
         Query query = Utility.getCollectionReferenceForNotes().orderBy("timestamp", Query.Direction.DESCENDING);
         FirestoreRecyclerOptions<Note> options = new FirestoreRecyclerOptions.Builder<Note>()
                 .setQuery(query, Note.class).build();
-        rv_note_item.setLayoutManager(new LinearLayoutManager(this));
+//        rv_note_item.setLayoutManager(new LinearLayoutManager(this));
+        rv_note_item.setLayoutManager(new StaggeredGridLayoutManager(2,LinearLayoutManager.VERTICAL));
         noteAdapter = new NoteAdapter(options, this);
         rv_note_item.setAdapter(noteAdapter);
     }

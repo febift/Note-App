@@ -22,9 +22,8 @@ import com.google.firebase.auth.UserProfileChangeRequest;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
-    ImageView iv_profile;
     EditText et_name, et_email, et_password, et_confirm_password;
-    TextView login_text_view_btn;
+    TextView login_text_view_btn, app_name;
     Button btn_create_account;
 
     private FirebaseAuth mAuth;
@@ -34,7 +33,7 @@ public class CreateAccountActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_account);
-        iv_profile = findViewById(R.id.iv_profile);
+        app_name= findViewById(R.id.app_name);
         et_name = findViewById(R.id.et_name);
         et_email = findViewById(R.id.et_email);
         et_password = findViewById(R.id.et_password);

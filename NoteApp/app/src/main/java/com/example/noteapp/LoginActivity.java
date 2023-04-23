@@ -20,11 +20,9 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class LoginActivity extends AppCompatActivity {
-
-    ImageView iv_profile;
     EditText et_email, et_password;
     Button btn_login;
-    TextView create_account_text_view_btn;
+    TextView create_account_text_view_btn, app_name;
 
     private FirebaseAuth mAuth;
     private ProgressDialog progressDialog;
@@ -35,7 +33,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        iv_profile = findViewById(R.id.iv_profile);
+        app_name = findViewById(R.id.app_name);
         et_email = findViewById(R.id.et_email);
         et_password = findViewById(R.id.et_password);
         btn_login = findViewById(R.id.btn_login);

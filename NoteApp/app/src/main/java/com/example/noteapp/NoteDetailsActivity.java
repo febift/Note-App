@@ -18,8 +18,8 @@ import com.google.firebase.firestore.DocumentReference;
 public class NoteDetailsActivity extends AppCompatActivity {
 
     EditText notes_title_text, notes_content_text;
-    ImageButton save_note_btn;
-    TextView page_title, delete_note_text_view;
+    ImageButton save_note_btn, delete_note_text_view;
+    TextView page_title;
     String docId;
     boolean isEditMode = false;
 
